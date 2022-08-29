@@ -1,5 +1,6 @@
 # vf1
 * This project will show how to use fabric.js on vue.js 3.
+* Reder to fabric.js http://fabricjs.com/image-filters
 
 ## Project setup
 ```
